@@ -95,7 +95,7 @@ video {
 }
 
 .pick-image {
-  display: flex;
+  display: none;
   align-items: center;
   position: absolute;
   left: var(--margin-size-footer);
